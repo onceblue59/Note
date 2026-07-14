@@ -2,6 +2,7 @@
 title: "iNote 与 GPT 聊天联动设计"
 description: "通过 /iNote 指令将 GPT 聊天内容自动整理、沉淀并写入个人知识库的整体设计思路。"
 pubDate: 2026-07-14
+updatedDate: 2026-07-14
 category: "projects"
 tags:
   - "iNote"
