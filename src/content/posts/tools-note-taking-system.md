@@ -2,9 +2,11 @@
 title: "一个轻量笔记系统的边界"
 description: "笔记系统不应该吞掉写作本身，目录、标签和归档都要为回看服务。"
 pubDate: 2026-03-29
+updatedDate: 2026-07-14
 category: "tools"
 tags: ["工具", "信息管理", "写作"]
 heroImage: "images/covers/tools.svg"
+draft: false
 ---
 
 笔记系统一旦过度复杂，就会开始反过来消耗写作者。每天花很多时间维护目录、移动文件、调整标签，却没有真正写下新的判断。
